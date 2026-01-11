@@ -1,18 +1,36 @@
-# Protocols
+# SER v1.3.0 — Protocol Sources (EN/RU)
 
-This folder contains the normative specification texts for the SER line.
+This directory contains the canonical Markdown sources of the SER v1.3.0 specification.
 
-## SER v1.3.0
-- English (canonical engineering text): `SER_v1.3.0_EN.md`
-- Russian (translation): `SER_v1.3.0_RU.md`
+## Files
 
-PDF mirrors (print-friendly):
-- `../pdf/SER_v1.3.0_EN.pdf`
-- `../pdf/SER_v1.3.0_RU.pdf`
+- `SER_v1.3_EN.md` — English specification (canonical).
+- `SER_v1.3_RU.md` — Russian specification (canonical translation).
+- `README.md` — this file.
+
+## PDF builds
+
+Rendered PDFs are stored in `/pdf`:
+
+- `/pdf/SER_v1.3_EN.pdf`
+- `/pdf/SER_v1.3_RU.pdf`
+
+The Markdown sources and PDFs must remain structurally consistent:
+section numbering, titles, and ordering should match across EN/RU and PDF.
 
 ## Integrity
-All artifacts in this repository can be verified via:
-- `../hashes/SHA256SUMS_v1.3.0.txt`
 
-Hashing procedure:
-- `../hashes/HOW_TO_HASH.md`
+This repository uses a reproducible SHA-256 manifest:
+
+- `/hashes/SHA256SUMS_v1.3.0.txt`
+
+Hashing instructions (PowerShell / Linux) should be placed under `/hashes` (if present).
+
+## Relationship to L4 (Reality-Bound)
+
+SER is designed to be compatible with the L4 Reality Boundary Layer published in the
+Reality-Bound AI (L4) repository. In short:
+
+- L4 provides the boundary conditions (cost, time, scarcity, identity, irreversibility).
+- SER defines sovereign entity governance on top of those conditions:
+  physical anchoring, topology, emergency modes, defense, and trust boundaries.

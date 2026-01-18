@@ -5,6 +5,21 @@ This repository is the canonical home of **SER v1.3.0**.
 It may also host adjacent protocol documents that extend SER at higher layers
 without modifying the SER core specification.
 
+## Integrity snapshots (SHA-256)
+
+This repo publishes **integrity manifests** for reproducible snapshots of the ecosystem documents.
+
+- **Ecosystem v0.1 snapshot**: `hashes/SHA256SUMS_ecosystem_v0.1.txt`
+- **Ecosystem v0.2 snapshot (draft)**: `hashes/SHA256SUMS_ecosystem_v0.2.txt`
+
+**Verification (example):**
+- Linux: `sha256sum -c hashes/SHA256SUMS_ecosystem_v0.2.txt`
+- Windows (PowerShell): see `hashes/HOW_TO_HASH.md`
+
+Notes:
+- Older manifests are **never edited**; new snapshots are added as new files.
+- `v0.2` is a draft snapshot reflecting SER-FED draft evolution (v0.1 → v0.2) and related glue docs.
+
 ## Protocol roles (do not confuse)
 ### SER v1.3.0
 - **Role:** Individual entity ontology & responsibility

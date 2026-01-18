@@ -26,3 +26,18 @@ SER-FED defines how authority expires and renews under L4 selection pressure.
 
 Together:
 Experience → Authority → Reality → Decay → Renewal
+
+## Specification Status
+
+This directory contains multiple RFC drafts.
+
+- **SER-FED_v0.1_RFC_EN.md**
+  Initial federation draft.
+
+- **SER-FED_v0.2_RFC_EN.md** (current)
+  Canonical draft introducing:
+  - normative L4 Witness lifecycle,
+  - unified Impact Attribution → EA → Prediction Bonds chain,
+  - explicit anti-oligarchy causality.
+
+Readers should start with v0.2 unless reviewing historical evolution.

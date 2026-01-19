@@ -36,6 +36,12 @@ Notes:
 - **Layer:** L2 (Federation dynamics) + L4 (Reality Boundary)
 - **Question:** “How does a long-lived ecosystem avoid oligarchic stagnation?”
 
+### L3+ (Draft RFC)
+- **Role:** Social integration & collective anchoring (community friction layer)
+- **Layer:** L3+ (above Legal L3, below Reality Boundary L4)
+- **Question:** “How does a reality-bounded ecosystem remain socially acceptable without hard-coded ethics?”
+- **Note:** L3+ does not override L4, does not mint EA/LA, and acts via federation throttles (pause / decay / gating).
+
 **Important:** SER-FED is an extension, not “SER v2.0”.
 SER v1.3.0 remains canonical and unchanged.
 

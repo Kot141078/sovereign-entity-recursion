@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18311183.svg)](https://doi.org/10.5281/zenodo.18311183)
+
 # Sovereign Entity Recursion (SER)
 
 An architecture-first protocol for sovereign, physically anchored AI entities.

@@ -72,6 +72,7 @@ PDFs are *snapshots* of the canonical Markdown sources (for citation and externa
 - `pdf/SER-FED_v0.1_RFC_EN.pdf`
 - `pdf/SER-FED_v0.2_RFC_EN.pdf`
 - `pdf/L3_PLUS_SOCIAL_INTEGRATION_DRAFT_RFC.pdf`
+- `pdf/VXCX_v0.1_Normative_Draft_EN.pdf`
 
 ---
 

@@ -56,6 +56,7 @@ L3+ acts through federation governance (Arbiter mechanisms) and never overrides 
 ### 2.5 VXCX (visual experience capsule exchange)
 - `protocol/vxcx/README.md`
 - `protocol/vxcx/VXCX_v0.1_Normative_Draft_EN.md`
+
 **Responsibility:** privacy-first exchange of visual experience capsules (no pixels by default),
 bounded payload, explicit uncertainty, witness events for auditability.
 

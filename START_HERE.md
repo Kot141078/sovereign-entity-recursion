@@ -14,4 +14,4 @@
 
 ## Implementation Reference
 
-- Non-normative pointer: `Kot141078/ester-clean-code`.
+- Implementation reference (non-normative): `Kot141078/ester-clean-code`.

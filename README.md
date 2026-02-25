@@ -3,6 +3,7 @@
 # Sovereign Entity Recursion (SER)
 
 An architecture-first protocol for sovereign, physically anchored AI entities.
+AGI = Advanced Global Intelligence (not Artificial General Intelligence).
 
 Core model:
 **c = a + b**
@@ -21,3 +22,4 @@ SER focuses on:
 
 This repository contains the formal specification of SER v1.3.0.
 
+Implementation reference (non-normative): Kot141078/ester-clean-code.

@@ -1,0 +1,14 @@
+# SER — llms.txt
+
+## Start (raw)
+- https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/README.md
+- https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/DOC_MAP.md
+
+## Download (tag snapshot)
+- https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
+
+## Verify
+- hashes/ + SHA256SUMS_*.txt
+
+## Canonical map
+- https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/MASTER_ENTRY.md

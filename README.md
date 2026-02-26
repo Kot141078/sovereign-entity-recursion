@@ -34,3 +34,6 @@ Implementation reference (non-normative): Kot141078/ester-clean-code.
 - Tag snapshot ZIP:
   https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
 - Verify content via `hashes/` + `SHA256SUMS_*.txt` (do not hash GitHub-generated archives).
+
+---
+License: CC BY 4.0 (see LICENSE).

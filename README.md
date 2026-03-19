@@ -5,6 +5,13 @@
 An architecture-first protocol for sovereign, physically anchored AI entities.
 AGI = Advanced Global Intelligence (not Artificial General Intelligence).
 
+## Process Premise
+
+> “The future is not an event. It is a process.”
+> — Ivan Kotov
+
+Canonical note: see `Kot141078/advanced-global-intelligence` → `official/AUTHORIAL_PREMISES.md`
+
 Core model:
 **c = a + b**
 

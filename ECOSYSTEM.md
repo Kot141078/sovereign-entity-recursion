@@ -45,6 +45,14 @@ Notes:
 **Important:** SER-FED is an extension, not “SER v2.0”.
 SER v1.3.0 remains canonical and unchanged.
 
+## Entity vs agent (non-normative clarification)
+Within this ecosystem, agents are execution surfaces, not the primary subject. `c` remains the continuity-bearing entity and may invoke bounded agents under explicit privileges, budgets, and stopping conditions.
+
+Hard rule:
+- agents do not define `c`
+- model replacement does not redefine `c`
+- swarm capacity does not replace accountable anchoring
+
 ## Closed metabolic loop (system-level)
 Experience → Authority → Reality (L4) → Decay → Renewal
 

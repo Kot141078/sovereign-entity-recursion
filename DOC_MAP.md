@@ -9,7 +9,9 @@ This repository is a protocol stack around `c = a + b`:
 The goal of this file is **navigation**: what to read, in what order, and what each document is responsible for.
 
 ## Subject hierarchy note
+
 When reading protocol extensions, keep the hierarchy explicit:
+
 - `a` anchors responsibility.
 - `c` holds continuity.
 - agents, if present, are subordinate bounded processes invoked under `c`.

@@ -32,6 +32,7 @@ This repository contains the formal specification of SER v1.3.0.
 Implementation reference (non-normative): Kot141078/ester-clean-code.
 
 ## Interpretive clarification (non-normative)
+
 - By default, `c` orchestrates bounded agents; agents are subordinate processes and tools and do not define `c`.
 - Continuity remains at the `c` layer, not at the level of any single model, worker, or swarm.
 

@@ -24,3 +24,13 @@
   https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.json
 - Repo index (human, raw):
   https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.md
+
+## Additive subsystems
+- ARQ subsystem:
+  - entry: `protocol/arq/README.md`
+  - normative: `protocol/arq/ARQ_v0.1_Normative_Draft_EN.md`
+  - trust_companion: `protocol/arq/Trust_Provenance_Layer_for_ARQ_v0.1_EN.md`
+  - readable: `docs/arq/ARQ_Protocol_Readable_Technical_Edition_EN.md`
+  - examples: `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
+  - pdf_root: `pdf/arq/`
+  - hashes: `hashes/SHA256SUMS_arq_v0.1_2026-03-25.txt`

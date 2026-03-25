@@ -70,6 +70,22 @@ L3+ acts through federation governance (Arbiter mechanisms) and never overrides 
 **Responsibility:** privacy-first exchange of visual experience capsules (no pixels by default),
 bounded payload, explicit uncertainty, witness events for auditability.
 
+### 2.6 ARQ (bounded error valuation and witness-backed handling)
+- `protocol/arq/README.md`
+- `protocol/arq/ARQ_v0.1_Normative_Draft_EN.md`
+- `protocol/arq/Trust_Provenance_Layer_for_ARQ_v0.1_EN.md`
+- `docs/arq/ARQ_Protocol_Readable_Technical_Edition_EN.md`
+- `docs/arq/ARQ_Mathematical_Foundations_for_Error_Valuation_EN.md`
+- `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`
+- `docs/arq/Quantum_Extension_of_ARQ_Entanglement_as_Value_Signal_EN.md`
+- `docs/arq/ARQ_Comparison_with_Surface_Codes_and_Stabilizer_Correction_EN.md`
+- `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
+- `docs/arq/translations/ru/Bounded_Entropy_Accumulation_in_ARQ_Entities_RU.md`
+- `pdf/arq/README.md`
+
+**Responsibility:** bounded error valuation, trust-sensitive handling, witness-first accountability,
+and controlled promotion of selected deviations into Experience Artifacts (EA) under L4 constraints.
+
 ---
 
 ## 3) PDF snapshots (distribution / citation)

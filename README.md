@@ -47,5 +47,15 @@ Implementation reference (non-normative): Kot141078/ester-clean-code.
   https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
 - Verify content via `hashes/` + `SHA256SUMS_*.txt` (do not hash GitHub-generated archives).
 
+## ARQ subsystem (draft, additive)
+
+ARQ (**Anti-Resonance Correction Protocol**) is an additive subsystem for bounded error valuation and witness-backed error handling under L4 constraints.
+
+It extends the SER continuity stack in a narrow way:
+destructive deviations are suppressed, beneficial exploratory deviations may be retained as **Experience Artifacts**, and no promoted event is valid without a replayable witness trail.
+
+Canonical entry:
+`protocol/arq/README.md`
+
 ---
 License: CC BY 4.0 (see LICENSE).

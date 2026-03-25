@@ -15,3 +15,13 @@
 ## Implementation Reference
 
 - Implementation reference (non-normative): `Kot141078/ester-clean-code`.
+
+## ARQ (additive module)
+
+If you are reading SER as a protocol stack, ARQ is the bounded error-handling and experience-filter layer.
+
+Start here:
+`protocol/arq/README.md`
+
+Read order:
+normative draft -> trust/provenance companion -> readable technical edition -> supporting notes.

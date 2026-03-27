@@ -25,3 +25,6 @@ Start here:
 
 Read order:
 normative draft -> trust/provenance companion -> readable technical edition -> supporting notes.
+
+For the supporting/formal theorem layer, see `protocol/arq/theorem_bounded_entropy_arq.md`.
+It is an additive theorem note and does not replace the existing supporting bounded-entropy note.

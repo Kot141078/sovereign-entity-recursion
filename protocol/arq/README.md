@@ -13,6 +13,8 @@ ARQ does **not** replace the normative SER core. It extends the continuity stack
 - **Readable technical edition:** `docs/arq/ARQ_Protocol_Readable_Technical_Edition_EN.md`
 - **Supporting note:** `docs/arq/ARQ_Mathematical_Foundations_for_Error_Valuation_EN.md`
 - **Supporting note:** `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`
+- **Formal theorem companion:** `protocol/arq/theorem_bounded_entropy_arq.md`
+- **PDF twin:** `pdf/arq/theorem_bounded_entropy_arq.pdf`
 - **Supporting note:** `docs/arq/Quantum_Extension_of_ARQ_Entanglement_as_Value_Signal_EN.md`
 - **Supporting note:** `docs/arq/ARQ_Comparison_with_Surface_Codes_and_Stabilizer_Correction_EN.md`
 - **Code example:** `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
@@ -20,6 +22,9 @@ ARQ does **not** replace the normative SER core. It extends the continuity stack
 
 PDF twins are stored in `pdf/arq/`.
 Hashes for this imported package are stored in `hashes/SHA256SUMS_arq_v0.1_2026-03-25.txt`.
+Addendum hashes for the theorem companion are stored in `hashes/SHA256SUMS_arq_addendum_2026-03-27.txt`.
+
+This theorem companion is additive and does not replace `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`. It provides a more compact, publication-facing formal statement of the same boundedness claim under explicit L4 budgets.
 
 ---
 
@@ -49,9 +54,10 @@ It is an architectural module that connects:
 3. `docs/arq/ARQ_Protocol_Readable_Technical_Edition_EN.md`
 4. `docs/arq/ARQ_Mathematical_Foundations_for_Error_Valuation_EN.md`
 5. `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`
-6. `docs/arq/Quantum_Extension_of_ARQ_Entanglement_as_Value_Signal_EN.md`
-7. `docs/arq/ARQ_Comparison_with_Surface_Codes_and_Stabilizer_Correction_EN.md`
-8. `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
+6. `protocol/arq/theorem_bounded_entropy_arq.md`
+7. `docs/arq/Quantum_Extension_of_ARQ_Entanglement_as_Value_Signal_EN.md`
+8. `docs/arq/ARQ_Comparison_with_Surface_Codes_and_Stabilizer_Correction_EN.md`
+9. `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
 
 ---
 

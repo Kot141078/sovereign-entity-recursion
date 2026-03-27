@@ -1,0 +1,2 @@
+712a06885fbc8403c23f2f4c8604a8f6fb793b1cbe6a74e2f1dc2bba2bc65bd8  protocol/arq/theorem_bounded_entropy_arq.md
+8de6c2f4a6a89dc7567769be1e3c65e8280d795c10b4d2b64b40c37860744d6d  pdf/arq/theorem_bounded_entropy_arq.pdf

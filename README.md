@@ -57,5 +57,19 @@ destructive deviations are suppressed, beneficial exploratory deviations may be 
 Canonical entry:
 `protocol/arq/README.md`
 
+## EA-L4 / EATP (adjacent canonical package in AGI)
+
+EA-L4 / EATP is an adjacent training-provenance and consequence-preserving layer in the wider stack, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+
+Boundary:
+- not part of the SER normative core
+- not `SER v2`
+- related through `c = a + b`, L4, witness, and ARQ-adjacent provenance discipline
+
+Use AGI for the package home and reading order; use SER for SER normative documents.
+
 ---
 License: CC BY 4.0 (see LICENSE).

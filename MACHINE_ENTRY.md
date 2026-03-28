@@ -34,3 +34,10 @@
   - examples: `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
   - pdf_root: `pdf/arq/`
   - hashes: `hashes/SHA256SUMS_arq_v0.1_2026-03-25.txt`
+- EA-L4 / EATP package:
+  - canonical_repo: `..\advanced-global-intelligence`
+  - entry: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+  - role: adjacent_training_provenance_layer
+  - relation: related_to_c_a_plus_b_l4_witness_arq
+  - part_of_ser_normative_core: false
+  - ser_v2: false

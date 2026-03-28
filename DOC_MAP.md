@@ -88,6 +88,15 @@ bounded payload, explicit uncertainty, witness events for auditability.
 and controlled promotion of selected deviations into Experience Artifacts (EA) under L4 constraints.
 The theorem companion is a compact formal theorem companion and does not replace the existing supporting bounded-entropy note.
 
+### 2.7 EA-L4 / EATP (external canonical package; adjacent)
+- `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+- `..\advanced-global-intelligence\protocols\ea-l4-eatp\normative\EATP_EA_L4_v1_2.md`
+- `..\advanced-global-intelligence\protocols\ea-l4-eatp\executive\EATP_EA_L4_v1_2_EL.md`
+
+**Responsibility:** training provenance, experience artifact discipline, and consequence-preserving learning guidance under L4 constraints.
+
+**Boundary:** EA-L4 / EATP is related to SER but is **not** part of the SER normative core and is **not** `SER v2`. Its canonical home is `advanced-global-intelligence`.
+
 ---
 
 ## 3) PDF snapshots (distribution / citation)

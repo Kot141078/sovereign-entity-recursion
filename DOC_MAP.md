@@ -97,6 +97,15 @@ The theorem companion is a compact formal theorem companion and does not replace
 
 **Boundary:** EA-L4 / EATP is related to SER but is **not** part of the SER normative core and is **not** `SER v2`. Its canonical home is `advanced-global-intelligence`.
 
+### 2.8 DEA (external canonical package; adjacent upstream layer)
+- `..\advanced-global-intelligence\protocols\dea\README.md`
+- `..\advanced-global-intelligence\protocols\dea\normative\DEA_v1_0.md`
+- `..\advanced-global-intelligence\protocols\dea\normative\DEA_Normative_Addendum_v1_1.md`
+
+**Responsibility:** determine when input becomes experience, when persistence and consequence are sufficient, and how that boundary feeds downstream EA-L4 / EATP handling.
+
+**Boundary:** DEA is related to SER but is **not** part of the SER normative core, is **not** `SER v2`, and its canonical home remains `advanced-global-intelligence`.
+
 ---
 
 ## 3) PDF snapshots (distribution / citation)

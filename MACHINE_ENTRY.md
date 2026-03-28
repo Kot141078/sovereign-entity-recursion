@@ -41,3 +41,12 @@
   - relation: related_to_c_a_plus_b_l4_witness_arq
   - part_of_ser_normative_core: false
   - ser_v2: false
+- DEA package:
+  - canonical_repo: `..\advanced-global-intelligence`
+  - entry: `..\advanced-global-intelligence\protocols\dea\README.md`
+  - normative: `..\advanced-global-intelligence\protocols\dea\normative\DEA_v1_0.md`
+  - addendum: `..\advanced-global-intelligence\protocols\dea\normative\DEA_Normative_Addendum_v1_1.md`
+  - role: adjacent_input_to_experience_layer
+  - upstream_of: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+  - part_of_ser_normative_core: false
+  - ser_v2: false

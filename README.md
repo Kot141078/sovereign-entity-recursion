@@ -71,5 +71,17 @@ Boundary:
 
 Use AGI for the package home and reading order; use SER for SER normative documents.
 
+## DEA (adjacent canonical package in AGI)
+
+DEA is an adjacent input-to-experience normative layer in the wider stack, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\dea\README.md`
+
+Boundary:
+- not part of the SER normative core
+- not `SER v2`
+- upstream from EA-L4 / EATP and related through `c = a + b`, ARQ-adjacent promotion discipline, and witness-backed consequence handling
+
 ---
 License: CC BY 4.0 (see LICENSE).

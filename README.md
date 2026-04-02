@@ -85,3 +85,11 @@ Boundary:
 
 ---
 License: CC BY 4.0 (see LICENSE).
+
+## Ecosystem-wide theoretical synthesis
+
+For an ecosystem-wide theoretical synthesis, see:
+
+- `Kot141078/advanced-global-intelligence` -> `manifesto/Theoretical_Foundations_of_the_AGI_Ecosystem_EN.md`
+
+This repository remains the normative SER core for continuity and sovereignty.

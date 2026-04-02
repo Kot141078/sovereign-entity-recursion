@@ -93,3 +93,10 @@ For an ecosystem-wide theoretical synthesis, see:
 - `Kot141078/advanced-global-intelligence` -> `manifesto/Theoretical_Foundations_of_the_AGI_Ecosystem_EN.md`
 
 This repository remains the normative SER core for continuity and sovereignty.
+
+### Published citation
+
+For the published ecosystem-wide theoretical synthesis record, see:
+
+- Version DOI: [10.5281/zenodo.19384668](https://doi.org/10.5281/zenodo.19384668)
+- All versions DOI: [10.5281/zenodo.19384667](https://doi.org/10.5281/zenodo.19384667)

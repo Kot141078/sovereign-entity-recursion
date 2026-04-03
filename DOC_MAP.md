@@ -166,3 +166,5 @@ This stack behaves like industrial change control:
 An entity can be technically correct and still destabilize the social system.
 L3+ adds friction and pause windows without pretending the system has “virtue”.
 Reality remains the final reviewer (L4).
+
+- `docs/arbitration-review-layer/README.md` — ARL v0.1 canonical package for bounded dispute admission, freeze / quarantine discipline, outcomes, appeal, and witness-bound re-entry.

@@ -122,3 +122,4 @@ For the published ecosystem-wide theoretical synthesis record, see:
 This repository now includes the canonical ARL v0.1 package: a bounded arbitration / review layer for multi-entity disputes in the SER ecosystem. It defines dispute admission, evidence admissibility, freeze / quarantine discipline, bounded outcomes, appeal windows, and witness-bound re-entry rules.
 
 Start here: `docs/arbitration-review-layer/README.md`
+Zenodo DOI: https://doi.org/10.5281/zenodo.19405602

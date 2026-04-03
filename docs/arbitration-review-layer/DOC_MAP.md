@@ -139,6 +139,6 @@ Current status:
 - package text layer: assembled,
 - terminology lock: present,
 - service map: present,
-- repository integration: pending,
-- PDF layer: pending,
-- SHA-256 manifest: pending.
+- repository integration: present,
+- PDF layer: present,
+- SHA-256 manifest: present.

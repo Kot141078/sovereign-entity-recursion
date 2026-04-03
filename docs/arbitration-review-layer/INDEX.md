@@ -44,17 +44,23 @@ This is the primary document defining:
 ### 3. `Evidence_Admissibility_and_Standing_v0.1.md`
 **Role:** Standing classes, admissibility rules, provenance discipline, burden of proof, and invalid evidence classes.
 
-### 4. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
+### 4. `Normative_Terms_and_Definitions_ARL_v0.1.md`
+**Role:** Canonical terminology lock for the ARL package.
+
+### 5. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
 **Role:** Operational state changes under dispute: pre-admissibility hold, evidentiary freeze, privilege freeze, branch quarantine, re-entry prohibition, and release conditions.
 
-### 5. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
+### 6. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
 **Role:** Allowed outcomes, appeal triggers, appeal standing, deadlines, reopening thresholds, and no-infinite-retry discipline.
 
-### 6. `Conflict_Class_Taxonomy_v0.1.md`
+### 7. `Conflict_Class_Taxonomy_v0.1.md`
 **Role:** Formal taxonomy of dispute classes so arbitration does not collapse into unbounded “general disagreement.”
 
-### 7. `README.md`
+### 8. `README.md`
 **Role:** Package front door and orientation note.
+
+### 9. `DOC_MAP.md`
+**Role:** Canonical document-role map for the package-facing layer.
 
 ---
 
@@ -68,10 +74,12 @@ This is the primary document defining:
 1. `README.md`
 2. `Executive_Summary_Arbitration_Review_Layer_v0.1.md`
 3. `Multi_Entity_Arbitration_Review_Layer_v0.1.md`
-4. `Evidence_Admissibility_and_Standing_v0.1.md`
-5. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
-6. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
-7. `Conflict_Class_Taxonomy_v0.1.md`
+4. `Normative_Terms_and_Definitions_ARL_v0.1.md`
+5. `Evidence_Admissibility_and_Standing_v0.1.md`
+6. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
+7. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
+8. `Conflict_Class_Taxonomy_v0.1.md`
+9. `DOC_MAP.md`
 
 ---
 
@@ -82,11 +90,13 @@ This is the primary document defining:
 
 ### Interpretive / support layers
 - `Executive_Summary_Arbitration_Review_Layer_v0.1.md`
+- `Normative_Terms_and_Definitions_ARL_v0.1.md`
 - `Evidence_Admissibility_and_Standing_v0.1.md`
 - `Freeze_Hold_Quarantine_Semantics_v0.1.md`
 - `Decision_Outcomes_and_Appeal_Window_v0.1.md`
 - `Conflict_Class_Taxonomy_v0.1.md`
 - `README.md`
+- `DOC_MAP.md`
 
 If interpretation conflicts with the normative core, the normative core prevails.
 

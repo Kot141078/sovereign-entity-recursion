@@ -83,11 +83,13 @@ Recommended reading order:
 
 1. `Executive_Summary_Arbitration_Review_Layer_v0.1.md`
 2. `Multi_Entity_Arbitration_Review_Layer_v0.1.md`
-3. `Evidence_Admissibility_and_Standing_v0.1.md`
-4. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
-5. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
-6. `Conflict_Class_Taxonomy_v0.1.md`
-7. `INDEX.md`
+3. `Normative_Terms_and_Definitions_ARL_v0.1.md`
+4. `Evidence_Admissibility_and_Standing_v0.1.md`
+5. `Freeze_Hold_Quarantine_Semantics_v0.1.md`
+6. `Decision_Outcomes_and_Appeal_Window_v0.1.md`
+7. `Conflict_Class_Taxonomy_v0.1.md`
+8. `INDEX.md`
+9. `DOC_MAP.md`
 
 ---
 
@@ -100,11 +102,17 @@ Recommended reading order:
 
 ### Supporting documents
 
+- `Normative_Terms_and_Definitions_ARL_v0.1.md`
 - `Evidence_Admissibility_and_Standing_v0.1.md`
 - `Freeze_Hold_Quarantine_Semantics_v0.1.md`
 - `Decision_Outcomes_and_Appeal_Window_v0.1.md`
 - `Conflict_Class_Taxonomy_v0.1.md`
+
+### Package-facing documents
+
+- `README.md`
 - `INDEX.md`
+- `DOC_MAP.md`
 
 ---
 

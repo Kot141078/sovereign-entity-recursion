@@ -83,6 +83,22 @@ Boundary:
 - not `SER v2`
 - upstream from EA-L4 / EATP and related through `c = a + b`, ARQ-adjacent promotion discipline, and witness-backed consequence handling
 
+## Adjacent ecosystem materials in AGI
+
+Economic Layer for Experience Artifacts is an adjacent ecosystem material with its canonical home in AGI. It covers economic admissibility, provenance, transfer, restraint, anti-gaming, and non-market EA handling, but it is not owned by SER.
+
+Canonical external package:
+- https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
+
+Pre-Lineage Boundary Note is a reserved territory note in AGI rather than a mature SER normative lineage constitution.
+
+Canonical external note:
+- https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
+
+Boundary:
+- pointer only in this repo
+- no duplicate package home in SER
+
 ---
 License: CC BY 4.0 (see LICENSE).
 

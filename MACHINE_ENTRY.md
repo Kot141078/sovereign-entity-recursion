@@ -50,3 +50,15 @@
   - upstream_of: `..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
   - part_of_ser_normative_core: false
   - ser_v2: false
+- Economic Layer package:
+  - canonical_home: `advanced-global-intelligence`
+  - url: `https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer`
+  - role: external_canonical_package
+  - relation: ecosystem_level_economic_admissibility_provenance_transfer_restraint_anti_gaming_non_market_ea_handling
+  - local_status: pointer_only_not_duplicated_here
+- Pre-Lineage Boundary Note:
+  - canonical_home: `advanced-global-intelligence`
+  - url: `https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md`
+  - role: external_boundary_note
+  - relation: reserved_territory_not_mature_lineage_constitution
+  - local_status: pointer_only_not_duplicated_here

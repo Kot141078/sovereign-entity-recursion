@@ -106,6 +106,16 @@ The theorem companion is a compact formal theorem companion and does not replace
 
 **Boundary:** DEA is related to SER but is **not** part of the SER normative core, is **not** `SER v2`, and its canonical home remains `advanced-global-intelligence`.
 
+### 2.9 Economic Layer and Pre-Lineage (external canonical materials; adjacent)
+- Economic Layer package:
+  https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
+- Pre-Lineage Boundary Note:
+  https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
+
+**Responsibility:** the Economic Layer covers ecosystem-level economic admissibility, provenance, transfer, restraint, anti-gaming, and non-market EA handling. The Pre-Lineage note marks reserved territory for lineage boundaries and is not yet a mature normative lineage constitution.
+
+**Boundary:** both remain external canonical materials in `advanced-global-intelligence` and are pointer-only from SER.
+
 ---
 
 ## 3) PDF snapshots (distribution / citation)

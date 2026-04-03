@@ -100,4 +100,17 @@ Hard rule:
 
 ## Earth paragraph (grounding)
 SER is the organism. EWCEP is the ecology of influence. SER-FED is the aging/metabolism of authority.
-Wit
+
+## Adjacent ecosystem materials in AGI
+
+Two adjacent canonical materials live in AGI rather than in SER:
+
+- Economic Layer package:
+  https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
+- Pre-Lineage Boundary Note:
+  https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
+
+Boundary:
+- Economic Layer remains an external canonical package for economic admissibility, provenance, transfer, restraint, anti-gaming, and non-market EA handling
+- Pre-Lineage remains a reserved territory note rather than a mature SER lineage constitution
+- both are pointer-only from this repository

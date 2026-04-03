@@ -16,6 +16,13 @@
 
 - Implementation reference (non-normative): `Kot141078/ester-clean-code`.
 
+## Adjacent ecosystem materials in AGI
+
+- Economic Layer package (external canonical package; pointer only here):
+  https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
+- Pre-Lineage Boundary Note (reserved territory note; pointer only here):
+  https://github.com/Kot141078/advanced-global-intelligence/blob/main/manifesto/Pre_Lineage_Boundary_Note_v0.1.md
+
 ## ARQ (additive module)
 
 If you are reading SER as a protocol stack, ARQ is the bounded error-handling and experience-filter layer.

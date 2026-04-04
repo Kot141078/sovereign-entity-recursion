@@ -7,6 +7,7 @@
   https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/DOC_MAP.md
 
 ## Downloads
+- Release page (verified): https://github.com/Kot141078/sovereign-entity-recursion/releases/tag/ecosystem-v0.2-2026-02-24
 - Tag snapshot (ecosystem-v0.2-2026-02-24)
   - ZIP: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
   - TAR: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.tar.gz

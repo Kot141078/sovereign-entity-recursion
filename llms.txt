@@ -1,14 +1,17 @@
 # SER — llms.txt
 
 ## Start (raw)
-- https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/README.md
-- https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/DOC_MAP.md
+- README (raw): https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/README.md
+- MACHINE_ENTRY.md (raw): https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/MACHINE_ENTRY.md
+- DOC_MAP.md (raw): https://raw.githubusercontent.com/Kot141078/sovereign-entity-recursion/main/DOC_MAP.md
 
-## Download (tag snapshot)
-- https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
+## Download / Release
+- Release page: https://github.com/Kot141078/sovereign-entity-recursion/releases/tag/ecosystem-v0.2-2026-02-24
+- Stable ZIP: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
+- Stable TAR.GZ: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.tar.gz
 
 ## Verify
-- hashes/ + SHA256SUMS_*.txt
+- hashes/ + SHA256SUMS_*.txt (do not hash GitHub-generated archives)
 
 ## Repo index
 - https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/REPO_INDEX.json

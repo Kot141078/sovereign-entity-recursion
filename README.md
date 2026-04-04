@@ -5,6 +5,40 @@
 An architecture-first protocol for sovereign, physically anchored AI entities.
 AGI = Advanced Global Intelligence (not Artificial General Intelligence).
 
+## Download / Get the Code
+
+For most visitors, the easiest starting point is the stable snapshot of this repository.
+
+- Release page: https://github.com/Kot141078/sovereign-entity-recursion/releases/tag/ecosystem-v0.2-2026-02-24
+- Stable source ZIP: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.zip
+- Stable source TAR.GZ: https://github.com/Kot141078/sovereign-entity-recursion/archive/refs/tags/ecosystem-v0.2-2026-02-24.tar.gz
+- GitHub UI: click **Code** -> **Download ZIP**
+
+Clone locally:
+
+```bash
+git clone https://github.com/Kot141078/sovereign-entity-recursion.git
+cd sovereign-entity-recursion
+git checkout ecosystem-v0.2-2026-02-24
+```
+
+Use `hashes/` and local verification materials when applicable. Do not hash GitHub-generated source archives.
+
+## For LLM-assisted reading
+
+Using an LLM to study this repository is normal and encouraged.
+
+If your model has a small context window, start with:
+
+- `README.md`
+- `MACHINE_ENTRY.md`
+- `llms.txt`
+- the stable snapshot of this repository
+
+Then load the key documents in small batches.
+
+This repository is easier to understand when related protocol documents are read together rather than as isolated fragments.
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”

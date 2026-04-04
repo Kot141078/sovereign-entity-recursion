@@ -39,6 +39,12 @@ Then load the key documents in small batches.
 
 This repository is easier to understand when related protocol documents are read together rather than as isolated fragments.
 
+## Canonical package entry points
+
+- `SER normative core` — canonical here; continuity and sovereignty layer. Path: `DOC_MAP.md`
+- `ARL package` — canonical here; bounded arbitration and review layer. Path: `docs/arbitration-review-layer/README.md`
+- `ARQ package` — canonical here; bounded error valuation and witness-backed handling. Path: `protocol/arq/README.md`
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”

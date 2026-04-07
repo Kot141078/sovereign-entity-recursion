@@ -75,6 +75,8 @@ Implementation reference (non-normative): Kot141078/ester-clean-code.
 
 - By default, `c` orchestrates bounded agents; agents are subordinate processes and tools and do not define `c`.
 - Continuity remains at the `c` layer, not at the level of any single model, worker, or swarm.
+- `c` may also be read as a **temporal entity of AI presence** — continuity-bearing, memory-bearing, and anchored across time rather than reducible to any single worker, model, or agent.
+- Canonical cross-repo note: `Kot141078/advanced-global-intelligence` → `official/C_AS_TEMPORAL_ENTITIES_OF_AI_PRESENCE.md`
 
 ---
 

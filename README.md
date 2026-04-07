@@ -125,6 +125,23 @@ Boundary:
 - not `SER v2`
 - upstream from EA-L4 / EATP and related through `c = a + b`, ARQ-adjacent promotion discipline, and witness-backed consequence handling
 
+## Continuity Bundle / Cold Wake v0.1 (adjacent canonical package in AGI)
+
+Continuity Bundle / Cold Wake v0.1 is an adjacent continuity companion in the wider stack, but its canonical home is **not** this repository.
+
+Canonical entry:
+`..\advanced-global-intelligence\protocols\continuity-bundle\README.md`
+
+Role from the SER side:
+- temporal suspension and bounded resume of `c`
+- replay / fork / resume distinction under evidence
+- continuity preservation across provider or motor replacement without collapsing responsibility
+
+Boundary:
+- not part of the SER normative core
+- not `SER v2`
+- pointer only in this repo
+
 ## Adjacent ecosystem materials in AGI
 
 Economic Layer for Experience Artifacts is an adjacent ecosystem material with its canonical home in AGI. It covers economic admissibility, provenance, transfer, restraint, anti-gaming, and non-market EA handling, but it is not owned by SER.

@@ -178,3 +178,7 @@ L3+ adds friction and pause windows without pretending the system has “virtue�
 Reality remains the final reviewer (L4).
 
 - `docs/arbitration-review-layer/README.md` — ARL v0.1 canonical package for bounded dispute admission, freeze / quarantine discipline, outcomes, appeal, and witness-bound re-entry.
+
+## Related public work
+
+- `Kot141078/qubit-of-hope-volume-i` — multilingual reading repository for *Qubit of Hope — Volume I*

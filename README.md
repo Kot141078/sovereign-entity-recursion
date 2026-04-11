@@ -182,3 +182,12 @@ This repository now includes the canonical ARL v0.1 package: a bounded arbitrati
 
 Start here: `docs/arbitration-review-layer/README.md`
 Zenodo DOI: https://doi.org/10.5281/zenodo.19405602
+
+## Related public work
+
+The same author also maintains a separate public literary repository:
+
+- `Kot141078/qubit-of-hope-volume-i` — multilingual reading repository for *Qubit of Hope — Volume I*
+
+This link is provided for public discoverability only.
+It is not part of the SER normative specification.

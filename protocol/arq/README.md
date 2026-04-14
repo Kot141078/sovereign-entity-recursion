@@ -24,6 +24,12 @@ PDF twins are stored in `pdf/arq/`.
 Hashes for this imported package are stored in `hashes/SHA256SUMS_arq_v0.1_2026-03-25.txt`.
 Addendum hashes for the theorem companion are stored in `hashes/SHA256SUMS_arq_addendum_2026-03-27.txt`.
 
+### ARQ v0.2 package location
+- ARQ v0.2 canonical package now lives in `protocol/arq/v0.2/`.
+- Rendered ARQ v0.2 PDFs live in `pdf/arq/v0.2/`.
+- ARQ v0.2 package integrity manifest lives in `hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt`.
+- ARQ v0.1 remains the earlier historical layer and is not overwritten by the v0.2 ingest.
+
 This theorem companion is additive and does not replace `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`. It provides a more compact, publication-facing formal statement of the same boundedness claim under explicit L4 budgets.
 
 ---

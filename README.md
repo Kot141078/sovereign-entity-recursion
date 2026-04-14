@@ -5,6 +5,35 @@
 An architecture-first protocol for sovereign, physically anchored AI entities.
 AGI = Advanced Global Intelligence (not Artificial General Intelligence).
 
+## Corpus position
+
+Role:
+continuity, sovereignty, arbitration, federation, and conflict stack for long-lived entities.
+
+This repo is not the whole-corpus home and it is not the runtime implementation layer.
+
+For corpus-level framing and lock state, see:
+
+- `Kot141078/advanced-global-intelligence` -> `CORPUS_PRIMER.json`
+- `Kot141078/advanced-global-intelligence` -> `STACK_LOCK_2026-04-12.json`
+- `Kot141078/advanced-global-intelligence` -> `CANONICAL_DISTINCTIONS.md`
+- `Kot141078/advanced-global-intelligence` -> `OBJECTIONS_AND_REPLIES.md`
+- `Kot141078/advanced-global-intelligence` -> `CITATION_AND_VERIFICATION.md`
+- `Kot141078/advanced-global-intelligence` -> `CLAIMS_AND_EVIDENCE_MAP.md`
+- `Kot141078/advanced-global-intelligence` -> `STATUS_AND_MATURITY_MAP.md`
+- `Kot141078/advanced-global-intelligence` -> `AUDIENCE_PROFILES_AND_MINIMAL_READING_PATHS.md`
+- `Kot141078/advanced-global-intelligence` -> `CHANGE_CONTROL_AND_SYNC.md`
+- `Kot141078/advanced-global-intelligence` -> `SUPERSESSION_AND_DEPRECATION.md`
+- `Kot141078/advanced-global-intelligence` -> `TERMINOLOGY_AND_ALIAS_POLICY.md`
+- `Kot141078/advanced-global-intelligence` -> `ENTRY_ACCEPTANCE_AND_REGRESSION.md`
+- `Kot141078/advanced-global-intelligence` -> `ASSERTION_STRENGTH_AND_BOUNDARIES.md`
+- `Kot141078/advanced-global-intelligence` -> `CANONICAL_OWNERSHIP_AND_BOUNDARIES.md`
+- `Kot141078/advanced-global-intelligence` -> `CROSS_LAYER_INVARIANTS_AND_CONTRADICTION_POLICY.md`
+- `Kot141078/advanced-global-intelligence` -> `PRECEDENCE_AND_RESOLUTION.md`
+- `Kot141078/advanced-global-intelligence` -> `ARTIFACT_ID_AND_REFERENCE_POLICY.md`
+- `Kot141078/advanced-global-intelligence` -> `PACKAGE_INTAKE_AND_INTEGRATION.md`
+- next hop for runtime: `Kot141078/ester-clean-code`
+
 ## Download / Get the Code
 
 For most visitors, the easiest starting point is the stable snapshot of this repository.
@@ -104,7 +133,7 @@ Canonical entry:
 EA-L4 / EATP is an adjacent training-provenance and consequence-preserving layer in the wider stack, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\ea-l4-eatp\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/ea-l4-eatp/README.md`
 
 Boundary:
 - not part of the SER normative core
@@ -118,7 +147,7 @@ Use AGI for the package home and reading order; use SER for SER normative docume
 DEA is an adjacent input-to-experience normative layer in the wider stack, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\dea\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/dea/README.md`
 
 Boundary:
 - not part of the SER normative core
@@ -130,7 +159,7 @@ Boundary:
 Continuity Bundle / Cold Wake v0.1 is an adjacent continuity companion in the wider stack, but its canonical home is **not** this repository.
 
 Canonical entry:
-`..\advanced-global-intelligence\protocols\continuity-bundle\README.md`
+`https://github.com/Kot141078/advanced-global-intelligence/blob/main/protocols/continuity-bundle/README.md`
 
 Role from the SER side:
 - temporal suspension and bounded resume of `c`
@@ -160,6 +189,8 @@ Boundary:
 
 ---
 License: CC BY 4.0 (see LICENSE).
+Repo-level corpus license and historical artifact-level notices should not be conflated.
+When a file carries its own notice, read that notice literally for that file.
 
 ## Ecosystem-wide theoretical synthesis
 

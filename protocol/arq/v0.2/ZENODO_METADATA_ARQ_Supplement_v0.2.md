@@ -1,9 +1,9 @@
-# ZENODO Metadata Draft — ARQ v0.2 Supplement
-## Deposit template for GitHub / Zenodo release pairing
+# ZENODO Metadata Template — ARQ v0.2 Supplement
+## Package-level deposit template for GitHub / Zenodo pairing
 
-**Status:** Draft / depositor metadata template  
+**Status:** Package-level deposit template / repository-facing metadata surface  
 **Version:** 0.2-draft  
-**Target:** Zenodo release deposit for ARQ v0.2 supplement package  
+**Target:** Later Zenodo deposit for the ARQ v0.2 supplement package only  
 **Author:** Ivan Kotov  
 **Place / year:** Bruxelles, 2026
 
@@ -11,16 +11,13 @@
 
 ## 0. Depositor note
 
-This file is a structured metadata draft for the Zenodo deposit corresponding to the ARQ v0.2 supplement package.
+This file is a structured metadata template for a later Zenodo deposit corresponding to the ARQ v0.2 supplement package.
 
-It is meant to reduce friction at release time.
+It is package-scoped.
+It does **not** instruct or imply a whole-repository snapshot for `sovereign-entity-recursion`.
 
-Before deposit:
-
-- replace placeholder fields where necessary;
-- confirm repository URL and tag;
-- confirm license and publication type;
-- confirm whether this release is linked to a specific GitHub tag or a standalone upload.
+It may remain in the repository before any Zenodo record exists.
+Repository-side references in this file are therefore either current GitHub references or deposit-time notes, not claims that a DOI or archival record already exists.
 
 ---
 
@@ -33,8 +30,8 @@ Before deposit:
 `0.2-draft`
 
 ### Publication date
-`2026-__-__`  
-Replace with the actual deposit date.
+Set by the deposit workflow at deposit time.
+This repository template does not claim a publication date in advance.
 
 ### Resource type
 Recommended:
@@ -60,7 +57,7 @@ If code examples or machine-readable schemas are included in the same deposit an
 - **Given name:** Ivan
 - **Affiliation:** Independent Researcher
 - **Place:** Brussels, Belgium
-- **ORCID:** optional / add if available
+- **ORCID:** not declared in this repository template
 
 If additional contributors are later added for editing, typesetting, or implementation, they SHOULD be listed separately rather than folded into the author field.
 
@@ -124,23 +121,28 @@ Use a subset if the platform requires fewer keywords.
 ## 5. Related identifiers
 
 ### Parent corpus / contextual references
-Recommended related-identifier fields (replace placeholders if needed):
+Current repository-side references for deposit preparation:
 
-1. **AGI repository / release**  
+1. **AGI repository**  
    Relation: `isSupplementTo` or `isPartOf`  
-   Identifier: `<GitHub release URL or DOI>`
+   Current GitHub context: `https://github.com/Kot141078/advanced-global-intelligence`  
+   Deposit-time note: use a release URL or DOI only if one actually exists when the deposit is created.
 
-2. **SER repository / release**  
+2. **SER repository / canonical package home**  
    Relation: `isSupplementTo` or `references`  
-   Identifier: `<GitHub release URL or DOI>`
+   Current GitHub context: `https://github.com/Kot141078/sovereign-entity-recursion`  
+   Canonical package paths:
+   - `protocol/arq/v0.2/`
+   - `pdf/arq/v0.2/`
 
-3. **L4 Witness repository / release**  
+3. **L4 Witness / ERB repository**  
    Relation: `references`  
-   Identifier: `<GitHub release URL or DOI>`
+   Current GitHub context: `https://github.com/Kot141078/ester-reality-bound`  
+   Deposit-time note: use a release URL or DOI only if one actually exists when the deposit is created.
 
 4. **GitHub tag for this ARQ supplement**  
    Relation: `isIdenticalTo` or `isSourceOf` depending on workflow  
-   Identifier: `<GitHub tag URL>`
+   Repository-stage note: use the package-specific GitHub tag URL only after that tag exists; until then the canonical repository context is the SER package path above.
 
 ### Suggested relation language
 - `isSupplementTo` for upstream architectural corpus;
@@ -175,15 +177,17 @@ If this deposit is paired with a GitHub release:
 1. ensure the Git tag matches the title/version;
 2. ensure `SHA256SUMS_ARQ_Supplement_v0.2.txt` is included in the release assets or repository root;
 3. ensure README and DOC MAP in the repository point to the same canonical file names as the deposit;
-4. ensure no placeholder metadata remains in this file before final archive.
+4. ensure this file contains no unresolved placeholder markers and no claims to DOI or publication dates that do not yet exist.
 
 ---
 
-## 8. Suggested citation draft
+## 8. Citation note
 
-**Kotov, Ivan.** *ARQ v0.2 Supplement: Anti-Resonance Correction Protocol for Long-Lived Sovereign Entities.* Zenodo, 2026. Version 0.2-draft.
+No Zenodo DOI is claimed in this repository template.
 
-Replace with final DOI and publication date once the record is minted.
+If the package is cited before a deposit exists, cite the GitHub tag or GitHub release associated with the canonical SER package landing.
+
+If a Zenodo record is later minted, use the DOI and publication date from that minted record.
 
 ---
 

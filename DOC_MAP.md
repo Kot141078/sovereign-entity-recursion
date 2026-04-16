@@ -106,7 +106,10 @@ The theorem companion is a compact formal theorem companion and does not replace
 
 **Boundary:** DEA is related to SER but is **not** part of the SER normative core, is **not** `SER v2`, and its canonical home remains `advanced-global-intelligence`.
 
-### 2.9 Economic Layer and Pre-Lineage (external canonical materials; adjacent)
+### 2.9 AGL (external canonical package; adjacent upstream layer)
+- AGL v0.1 — upstream grounding layer before ARL review: source-state qualification and runtime reliance before standing, admissibility, freeze, or review; canonical home in `ester-reality-bound`.
+
+### 2.10 Economic Layer and Pre-Lineage (external canonical materials; adjacent)
 - Economic Layer package:
   https://github.com/Kot141078/advanced-global-intelligence/tree/main/docs/economic-layer
 - Pre-Lineage Boundary Note:

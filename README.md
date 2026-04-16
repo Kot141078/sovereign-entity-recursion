@@ -74,6 +74,14 @@ This repository is easier to understand when related protocol documents are read
 - `ARL package` — canonical here; bounded arbitration and review layer. Path: `docs/arbitration-review-layer/README.md`
 - `ARQ package` — canonical here; bounded error valuation and witness-backed handling. Path: `protocol/arq/README.md`
 
+### Actor Grounding Layer (AGL) v0.1
+
+AGL v0.1 is the upstream grounding layer that sits before ARL dispute review: it determines whether a signal or actor may lawfully support runtime reliance before standing, admissibility, freeze, or review are allowed to proceed.
+
+Canonical home: `ester-reality-bound` AGL package
+
+ARL governs procedural conflict once a dispute has entered review. AGL sits one layer earlier. It qualifies whether the initiating actor, signal, node, or perceptual path is grounded enough in present execution state to lawfully support runtime reliance in the first place. This keeps procedural review from being built on already abstracted initiation. The canonical home of AGL is `ester-reality-bound`.
+
 ## Process Premise
 
 > “The future is not an event. It is a process.”

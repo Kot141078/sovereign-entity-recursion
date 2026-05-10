@@ -81,6 +81,8 @@ The substantive ARQ documents in this package are shipped in paired formats:
   Role: additive ARQ v0.2 integration addendum for Qubit-State `c` (`c[q]`).
   Function: defines `c[q]` as a behavioral non-collapse overlay under uncertainty, with bounded q-state holding and witness-bound collapse before memory/action/EA promotion.
   Boundary: this is not physical quantum computing, not quantum consciousness, not Model M5, and not a replacement for the ARQ v0.2 normative core.
+  DOI: https://doi.org/10.5281/zenodo.20112537
+  All-versions DOI: https://doi.org/10.5281/zenodo.20112536
 
 ### 2.7 Release-layer payload files
 - `README_ARQ_Supplement_v0.2.md`
@@ -89,6 +91,7 @@ The substantive ARQ documents in this package are shipped in paired formats:
 - `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
 - `ARQ_Supplement_v0.2.index.json` (machine-readable package index)
 - `CITATION_ARQ_cq_Integration_Addendum_v0.1.cff` (citation metadata for the c[q] addendum)
+- `DOI_ARQ_cq_Integration_Addendum_v0.1.md` (DOI record for the c[q] addendum)
 
 ### 2.8 Integrity file
 - `SHA256SUMS_ARQ_Supplement_v0.2.txt` (self-excluded from the payload set it verifies)

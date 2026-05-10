@@ -16,8 +16,7 @@ This file is a structured metadata template for a later Zenodo deposit correspon
 It is package-scoped.
 It does **not** instruct or imply a whole-repository snapshot for `sovereign-entity-recursion`.
 
-It may remain in the repository before any Zenodo record exists.
-Repository-side references in this file are therefore either current GitHub references or deposit-time notes, not claims that a DOI or archival record already exists.
+The ARQ c[q] Integration Addendum v0.1 now has a Zenodo record. Package-level ARQ v0.2 supplement metadata remains repository-facing unless a separate package DOI is minted.
 
 ---
 
@@ -189,11 +188,15 @@ If this deposit is paired with a GitHub release:
 
 ## 8. Citation note
 
-No Zenodo DOI is claimed in this repository template.
+ARQ c[q] Integration Addendum v0.1 DOI:
 
-If the package is cited before a deposit exists, cite the GitHub tag or GitHub release associated with the canonical SER package landing.
+`https://doi.org/10.5281/zenodo.20112537`
 
-If a Zenodo record is later minted, use the DOI and publication date from that minted record.
+All-versions DOI:
+
+`https://doi.org/10.5281/zenodo.20112536`
+
+For the broader ARQ v0.2 supplement package, cite the GitHub tag or GitHub release unless a separate package DOI is minted.
 
 ---
 

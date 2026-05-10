@@ -34,6 +34,9 @@ Addendum hashes for the theorem companion are stored in `hashes/SHA256SUMS_arq_a
 
 - `v0.2/ARQ_cq_Integration_Addendum_v0.1.md`
 - PDF: `../../pdf/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.pdf`
+- DOI record: `v0.2/DOI_ARQ_cq_Integration_Addendum_v0.1.md`
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20112537
+- All-versions DOI: https://doi.org/10.5281/zenodo.20112536
 
 This addendum integrates Qubit-State `c` (`c[q]`) into ARQ v0.2 as a behavioral non-collapse overlay under uncertainty. It is additive and does not modify the ARQ v0.2 normative core. It is separate from the ARQ Quantum Boundary / M5 theorem material and must not be read as a physical quantum-computing claim.
 

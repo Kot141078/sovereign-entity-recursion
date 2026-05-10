@@ -138,6 +138,8 @@ Canonical entry:
 
 - ARQ c[q] Integration Addendum v0.1: `protocol/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.md`
   Additive ARQ v0.2 addendum for behavioral non-collapse under uncertainty; not physical quantum computing and not a replacement for the ARQ v0.2 normative core.
+  Zenodo DOI: https://doi.org/10.5281/zenodo.20112537
+  All-versions DOI: https://doi.org/10.5281/zenodo.20112536
 
 ## EA-L4 / EATP (adjacent canonical package in AGI)
 

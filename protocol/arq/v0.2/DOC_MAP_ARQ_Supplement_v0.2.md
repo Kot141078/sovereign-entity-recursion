@@ -134,7 +134,8 @@ If the whole package is read linearly, the canonical order is:
 20. `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
 21. `ARQ_Supplement_v0.2.index.json`
 22. `CITATION_ARQ_cq_Integration_Addendum_v0.1.cff`
-23. `SHA256SUMS_ARQ_Supplement_v0.2.txt`
+23. `DOI_ARQ_cq_Integration_Addendum_v0.1.md`
+24. `SHA256SUMS_ARQ_Supplement_v0.2.txt`
 
 ### c[q] / behavioral non-collapse addendum
 
@@ -142,6 +143,8 @@ If the whole package is read linearly, the canonical order is:
   Adds Qubit-State `c` (`c[q]`) as an ARQ v0.2 integration addendum. It should be read after the ARQ model and notation files and before lifecycle / witness-binding material.
   It defines a behavioral non-collapse overlay for holding unresolved variants under uncertainty until a valid collapse condition exists.
   This addendum is explicitly separate from the ARQ Quantum Boundary / M5 theorem material and does not claim physical quantum computation.
+- `DOI_ARQ_cq_Integration_Addendum_v0.1.md`
+  Records the exact Zenodo DOI `10.5281/zenodo.20112537` and all-versions DOI `10.5281/zenodo.20112536` for the SER-hosted c[q] addendum.
 
 ---
 

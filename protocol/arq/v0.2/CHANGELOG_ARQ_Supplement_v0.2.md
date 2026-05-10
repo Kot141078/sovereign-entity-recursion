@@ -27,6 +27,17 @@ Its job is narrower:
 
 ---
 
+## 2026-05-10 — Zenodo DOI backfill
+
+- Added DOI record for `ARQ_cq_Integration_Addendum_v0.1`.
+- Exact version DOI: `10.5281/zenodo.20112537`.
+- All-versions DOI: `10.5281/zenodo.20112536`.
+- Updated package metadata, CFF citation, JSON index, README/DOC_MAP pointers, and SHA-256 manifest.
+- No change to `ARQ_v0.2_Normative_Core.md`.
+- No change to ARQ quantum-boundary theorem files.
+
+---
+
 ## 2026-05-10 — ARQ c[q] Integration Addendum v0.1
 
 - Added `ARQ_cq_Integration_Addendum_v0.1.md` and PDF companion.

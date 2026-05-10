@@ -30,7 +30,13 @@
       "not_physical_quantum_computing": true,
       "not_quantum_consciousness": true,
       "not_model_m5": true,
-      "does_not_replace_normative_core": true
+      "does_not_replace_normative_core": true,
+      "doi": "10.5281/zenodo.20112537",
+      "doi_url": "https://doi.org/10.5281/zenodo.20112537",
+      "concept_doi": "10.5281/zenodo.20112536",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.20112536",
+      "zenodo_published": true,
+      "zenodo_publication_date": "2026-05-10"
     }
   ],
   "documents": [
@@ -355,7 +361,7 @@
       "format": "markdown",
       "role": "changelog",
       "status": "Draft / release changelog",
-      "sha256": "ff4c3e1b8c263a3b7b32eb3b46ac35d64c00c17573a12601090f45018445d3a4"
+      "sha256": "79dfc05118424a215376cc17848ed5d9e9eb1beabf09626f8b47a287712558a2"
     },
     {
       "id": "citation-arq-cq-integration-addendum-v0-1",
@@ -364,7 +370,20 @@
       "format": "cff",
       "role": "citation",
       "status": "unknown",
-      "sha256": "06b97fae264725d994a31ab3ce4722179f3c49ef1112409c4105b6cdc7aab9ac"
+      "sha256": "719eb754d8174b75cd7b0c7c622b5efead489a158576f83a411350c9f3d49b12"
+    },
+    {
+      "id": "doi-arq-cq-integration-addendum-v0-1",
+      "title": "DOI Record — ARQ c[q] Integration Addendum v0.1",
+      "path": "protocol/arq/v0.2/DOI_ARQ_cq_Integration_Addendum_v0.1.md",
+      "format": "markdown",
+      "role": "doi_record",
+      "status": "current",
+      "doi": "10.5281/zenodo.20112537",
+      "doi_url": "https://doi.org/10.5281/zenodo.20112537",
+      "concept_doi": "10.5281/zenodo.20112536",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.20112536",
+      "sha256": "f87e4eff9910b121f59a792665560549aa4a5e67cfe3ccce7ac9fee43ee1f6ef"
     },
     {
       "id": "doc-map-arq-supplement-v0-2",
@@ -373,7 +392,7 @@
       "format": "markdown",
       "role": "doc_map",
       "status": "Draft / document map",
-      "sha256": "f69d860f6c2736e1930cb36bbba324977d4fa61f227f2007582dd4330192c687"
+      "sha256": "c3ed81f1c65c41e49da661415dfa4b911378f231170edffd6e4b78fd77c20fee"
     },
     {
       "id": "readme-arq-supplement-v0-2",
@@ -382,7 +401,7 @@
       "format": "markdown",
       "role": "package_readme",
       "status": "Draft / repository entrypoint",
-      "sha256": "8c3f7b672c0a5ebfe9bafeb83538c1efc83e0523cf84e2121ab2a36e9c864bac"
+      "sha256": "3106ad0c1ae4bda8978dc3bace9c8d5aef4252106350290751ebd758037cb14d"
     },
     {
       "id": "zenodo-metadata-arq-supplement-v0-2",
@@ -391,7 +410,7 @@
       "format": "markdown",
       "role": "release_metadata",
       "status": "Package-level deposit template / repository-facing metadata surface",
-      "sha256": "af74f671970e0ce353d309dc1a4b93d13c15238d04eb1b88fe85d85cec550f13"
+      "sha256": "f3437b46633811e6c02ec343bbce5fc712c824b68c3949e4fb4d5c8b127e8f61"
     }
   ],
   "integrity_note": "This index is hashed externally in hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt. The index does not embed its own SHA-256 hash to avoid recursive self-hashing."

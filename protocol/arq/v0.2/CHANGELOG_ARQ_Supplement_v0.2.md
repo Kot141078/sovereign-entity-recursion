@@ -27,6 +27,16 @@ Its job is narrower:
 
 ---
 
+## 2026-05-10 — ARQ c[q] Integration Addendum v0.1
+
+- Added `ARQ_cq_Integration_Addendum_v0.1.md` and PDF companion.
+- Integrated Qubit-State `c` (`c[q]`) into the ARQ v0.2 supplement set as an additive behavioral non-collapse overlay.
+- Clarified that `c[q]` is not physical quantum computing, not quantum consciousness, not Model M5, and not a replacement for the ARQ v0.2 normative core.
+- Preserved ARQ v0.2 normative core unchanged.
+- Updated package inventory, document map, machine-readable index, citation metadata, and SHA-256 manifest.
+
+---
+
 ## 1. Added in v0.2
 
 ### 1.1 New package structure

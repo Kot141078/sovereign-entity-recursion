@@ -1,0 +1,398 @@
+{
+  "schema_version": "arq-supplement-index-0.1",
+  "package": "ARQ Supplement",
+  "package_version": "v0.2",
+  "updated_at": "2026-05-10T17:05:16Z",
+  "canonical_repository": "Kot141078/sovereign-entity-recursion",
+  "canonical_branch": "main",
+  "canonical_paths": {
+    "markdown_root": "protocol/arq/v0.2/",
+    "pdf_root": "pdf/arq/v0.2/",
+    "hash_manifest": "hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt"
+  },
+  "semantic_boundaries": {
+    "cq": "Behavioral non-collapse overlay under uncertainty for c = a + b entities.",
+    "m5_quantum_boundary": "Separate ARQ quantum-boundary theorem material. c[q] must not be interpreted as a physical quantum-computing claim unless explicitly bound to a trusted physical quantum boundary.",
+    "normative_core": "The c[q] addendum is additive and does not replace ARQ_v0.2_Normative_Core.md."
+  },
+  "integration_addenda": [
+    {
+      "id": "arq-cq-integration-addendum-v0.1",
+      "title": "ARQ c[q] Integration Addendum v0.1",
+      "version": "0.1-draft",
+      "status": "Draft / integration addendum",
+      "markdown_path": "protocol/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.md",
+      "pdf_path": "pdf/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.pdf",
+      "citation_cff": "protocol/arq/v0.2/CITATION_ARQ_cq_Integration_Addendum_v0.1.cff",
+      "role": "behavioral non-collapse overlay",
+      "target_package": "ARQ v0.2 supplement set",
+      "parent_concept": "Qubit-State c (`c[q]`) v0.1",
+      "not_physical_quantum_computing": true,
+      "not_quantum_consciousness": true,
+      "not_model_m5": true,
+      "does_not_replace_normative_core": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "arq-capsule-and-witness-record-schemas-v0-2",
+      "title": "ARQ_Capsule_and_Witness_Record_Schemas_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Capsule_and_Witness_Record_Schemas_v0.2.pdf",
+      "format": "pdf",
+      "role": "schema",
+      "status": "unknown",
+      "sha256": "a0e6ace00dba1a4bced12fd3be40a2a8c2d677eb9691461e40c566e696828ebb"
+    },
+    {
+      "id": "arq-classical-boundedness-theorem-prouve-v0-2",
+      "title": "ARQ_Classical_Boundedness_Theorem_prouve_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Classical_Boundedness_Theorem_prouve_v0.2.pdf",
+      "format": "pdf",
+      "role": "proof",
+      "status": "unknown",
+      "sha256": "5ea8c2debb934e864d82f847eb76bc08cb1c602e61d1d3af876ecc748128aba5"
+    },
+    {
+      "id": "arq-classical-boundedness-theorem-v0-2",
+      "title": "ARQ_Classical_Boundedness_Theorem_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Classical_Boundedness_Theorem_v0.2.pdf",
+      "format": "pdf",
+      "role": "theorem",
+      "status": "unknown",
+      "sha256": "b0411394f48ecd321ee2d6f336a75603995ddc0ba0316f4951623247ebb4f7c0"
+    },
+    {
+      "id": "arq-cq-integration-addendum-v0-1",
+      "title": "ARQ_cq_Integration_Addendum_v0.1.pdf",
+      "path": "pdf/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.pdf",
+      "format": "pdf",
+      "role": "integration_addendum",
+      "status": "unknown",
+      "sha256": "eaf72781ee9ba8f45b1ae35a878642e390711e0d1a17615c2997ffc465e8c247"
+    },
+    {
+      "id": "arq-ea-lifecycle-and-witness-binding-v0-2",
+      "title": "ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.pdf",
+      "format": "pdf",
+      "role": "normative",
+      "status": "unknown",
+      "sha256": "c18561d7d776c21957d17f7d04eef4d65b2a5a8dcadc5c585876690a2eee8246"
+    },
+    {
+      "id": "arq-error-valuation-and-anomaly-scoring-v0-2",
+      "title": "ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.pdf",
+      "format": "pdf",
+      "role": "normative",
+      "status": "unknown",
+      "sha256": "4072632ea435cb92cc660a2afde8eda971042c6e28f41e8b1d628042efbc58d0"
+    },
+    {
+      "id": "arq-failure-modes-and-safe-degradation-v0-2",
+      "title": "ARQ_Failure_Modes_and_Safe_Degradation_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Failure_Modes_and_Safe_Degradation_v0.2.pdf",
+      "format": "pdf",
+      "role": "failure_modes",
+      "status": "unknown",
+      "sha256": "3d220229e1a72b513dc21d69f3ca3fc02fcf05fa0cda545811b3ff0023008ba3"
+    },
+    {
+      "id": "arq-implementation-profiles-classical-v0-2",
+      "title": "ARQ_Implementation_Profiles_Classical_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Implementation_Profiles_Classical_v0.2.pdf",
+      "format": "pdf",
+      "role": "implementation_profile",
+      "status": "unknown",
+      "sha256": "f1274ee6b1b5ec1b496791f84a5576d4f782db883e8a18fc76a4f88fe6492d03"
+    },
+    {
+      "id": "arq-integration-map-to-ser-l4-witness-beacon-vxcx-v0-2",
+      "title": "ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.pdf",
+      "format": "pdf",
+      "role": "integration_map",
+      "status": "unknown",
+      "sha256": "b62e39b1d60aa5ca52b86e92908a12136b1890ae728d765aead5f341c48c0286"
+    },
+    {
+      "id": "arq-notation-and-sign-conventions-v0-2",
+      "title": "ARQ_Notation_and_Sign_Conventions_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Notation_and_Sign_Conventions_v0.2.pdf",
+      "format": "pdf",
+      "role": "normative",
+      "status": "unknown",
+      "sha256": "2f100056d2cc95e29073d2f7e9dcebb50a26ee806bf1c330dba19fceb6459009"
+    },
+    {
+      "id": "arq-quantum-boundary-theorem-prouve-v0-2",
+      "title": "ARQ_Quantum_Boundary_Theorem_prouve_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Quantum_Boundary_Theorem_prouve_v0.2.pdf",
+      "format": "pdf",
+      "role": "proof",
+      "status": "unknown",
+      "sha256": "26338f918c9b5fa9e183ff8dd03ce1e6dbb7b9d7e89e4a3b878ec036323d05e4"
+    },
+    {
+      "id": "arq-quantum-boundary-theorem-v0-2",
+      "title": "ARQ_Quantum_Boundary_Theorem_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Quantum_Boundary_Theorem_v0.2.pdf",
+      "format": "pdf",
+      "role": "theorem",
+      "status": "unknown",
+      "sha256": "7e33fcbf9d5b58bb59871d84b6c76c4eca954c856e00ed7209ebd05499f6f83d"
+    },
+    {
+      "id": "arq-system-models-and-assumptions-v0-2",
+      "title": "ARQ_System_Models_and_Assumptions_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_System_Models_and_Assumptions_v0.2.pdf",
+      "format": "pdf",
+      "role": "normative",
+      "status": "unknown",
+      "sha256": "02327ba787c2ac29a8a1a4788fc79628177f89e402586f030d4c33a46865f233"
+    },
+    {
+      "id": "arq-test-audit-and-conformance-matrix-v0-2",
+      "title": "ARQ_Test_Audit_and_Conformance_Matrix_v0.2.pdf",
+      "path": "pdf/arq/v0.2/ARQ_Test_Audit_and_Conformance_Matrix_v0.2.pdf",
+      "format": "pdf",
+      "role": "audit_conformance",
+      "status": "unknown",
+      "sha256": "de211060961fc533bb84b54d4175d6fc1abc44c7369c9470daf94b0ca4b2077e"
+    },
+    {
+      "id": "arq-v0-2-executive-summary",
+      "title": "ARQ_v0.2_Executive_Summary.pdf",
+      "path": "pdf/arq/v0.2/ARQ_v0.2_Executive_Summary.pdf",
+      "format": "pdf",
+      "role": "release_metadata",
+      "status": "unknown",
+      "sha256": "0402c99f30bdd487e1eddf90495ff54918be7649da89856039ed579fd40b918c"
+    },
+    {
+      "id": "arq-v0-2-normative-core",
+      "title": "ARQ_v0.2_Normative_Core.pdf",
+      "path": "pdf/arq/v0.2/ARQ_v0.2_Normative_Core.pdf",
+      "format": "pdf",
+      "role": "normative",
+      "status": "unknown",
+      "sha256": "0270fdb05364b4b9a8b3669e84c1bdfd11aab38eb4acc1ee2c925f9d5d73b8b0"
+    },
+    {
+      "id": "arq-v0-2-one-page-essence-en",
+      "title": "ARQ_v0.2_One_Page_Essence_EN.pdf",
+      "path": "pdf/arq/v0.2/ARQ_v0.2_One_Page_Essence_EN.pdf",
+      "format": "pdf",
+      "role": "release_metadata",
+      "status": "unknown",
+      "sha256": "d583cf4d5626a19542d5a765bb7c107a63a48d77fe3c6a4dc7a04a961d782c11"
+    },
+    {
+      "id": "arq-capsule-and-witness-record-schemas-v0-2",
+      "title": "ARQ_Capsule_and_Witness_Record_Schemas_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md",
+      "format": "markdown",
+      "role": "schema",
+      "status": "Draft / normative support document",
+      "sha256": "5d4812fd2a78c9a5e76a6da061f42bd3990141a007677d686b2754c2931a6685"
+    },
+    {
+      "id": "arq-classical-boundedness-theorem-prouve-v0-2",
+      "title": "ARQ_Classical_Boundedness_Theorem_pruve_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Classical_Boundedness_Theorem_prouve_v0.2.md",
+      "format": "markdown",
+      "role": "proof",
+      "status": "Draft / proof companion",
+      "sha256": "f49d693db41b221e2a2fc87e326b3ebb2600ab0ac2bb48062c03336198b360d8"
+    },
+    {
+      "id": "arq-classical-boundedness-theorem-v0-2",
+      "title": "ARQ_Classical_Boundedness_Theorem_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Classical_Boundedness_Theorem_v0.2.md",
+      "format": "markdown",
+      "role": "theorem",
+      "status": "Draft / normative support document",
+      "sha256": "f421ca493570c92701d6a264367a3ba59727e7dfb9427244fa81bc850ca5808b"
+    },
+    {
+      "id": "arq-cq-integration-addendum-v0-1",
+      "title": "ARQ c[q] Integration Addendum v0.1",
+      "path": "protocol/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.md",
+      "format": "markdown",
+      "role": "integration_addendum",
+      "status": "Draft / integration addendum",
+      "sha256": "dd79dea8c7678e5733127c879482138acec4950cbff35e147f8a9a052a575b1d"
+    },
+    {
+      "id": "arq-ea-lifecycle-and-witness-binding-v0-2",
+      "title": "ARQ_EA_Lifecycle_and_Witness_Binding_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md",
+      "format": "markdown",
+      "role": "normative",
+      "status": "Draft / normative support document",
+      "sha256": "194477bbf0399cf7cbbc15f25cf8684982b08b9002f67e4c475c3ad79c9883d8"
+    },
+    {
+      "id": "arq-error-valuation-and-anomaly-scoring-v0-2",
+      "title": "ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md",
+      "format": "markdown",
+      "role": "normative",
+      "status": "Draft / normative support document",
+      "sha256": "e2e1e3946d168df0a5c7d3a386b834cd402bb44e83690e667c8b50b8b9eb3e05"
+    },
+    {
+      "id": "arq-failure-modes-and-safe-degradation-v0-2",
+      "title": "ARQ_Failure_Modes_and_Safe_Degradation_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Failure_Modes_and_Safe_Degradation_v0.2.md",
+      "format": "markdown",
+      "role": "failure_modes",
+      "status": "Draft / normative support document",
+      "sha256": "5942aafda50c5dd21f5af688af4bbcda8340856f7a71cd055fa4e3cd4c2d9f9d"
+    },
+    {
+      "id": "arq-implementation-profiles-classical-v0-2",
+      "title": "ARQ_Implementation_Profiles_Classical_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Implementation_Profiles_Classical_v0.2.md",
+      "format": "markdown",
+      "role": "implementation_profile",
+      "status": "Draft / implementation profile document",
+      "sha256": "004612b9646e132d42b6ed9eb4cb75539255e88e98a44ff8f7e5265b3a54361a"
+    },
+    {
+      "id": "arq-integration-map-to-ser-l4-witness-beacon-vxcx-v0-2",
+      "title": "ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md",
+      "format": "markdown",
+      "role": "integration_map",
+      "status": "Draft / integration support document",
+      "sha256": "270f601aa583ceb98f6a11d496b16ebe9ffa7d8c8894c8a6ee0fa237395eb1ac"
+    },
+    {
+      "id": "arq-notation-and-sign-conventions-v0-2",
+      "title": "ARQ_Notation_and_Sign_Conventions_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Notation_and_Sign_Conventions_v0.2.md",
+      "format": "markdown",
+      "role": "normative",
+      "status": "Draft / normative support document",
+      "sha256": "d08cd6c6f02981007315a7c250e13a0b234531f23fe594620aef5093b79ce342"
+    },
+    {
+      "id": "arq-quantum-boundary-theorem-prouve-v0-2",
+      "title": "ARQ_Quantum_Boundary_Theorem_prouve_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Quantum_Boundary_Theorem_prouve_v0.2.md",
+      "format": "markdown",
+      "role": "proof",
+      "status": "Draft / proof companion",
+      "sha256": "f60e37a74d2c4c9f33b29c9cfbd35465027aaef644c16f00d26929d2e8f3ef2b"
+    },
+    {
+      "id": "arq-quantum-boundary-theorem-v0-2",
+      "title": "ARQ_Quantum_Boundary_Theorem_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Quantum_Boundary_Theorem_v0.2.md",
+      "format": "markdown",
+      "role": "theorem",
+      "status": "Draft / normative support document",
+      "sha256": "87b04f0c78067bc90e49aaaf8e87ccf490ac0650cb7784ff55f221b9ae0fb78b"
+    },
+    {
+      "id": "arq-supplement-v0-2-index",
+      "title": "ARQ_Supplement_v0.2.index.json",
+      "path": "protocol/arq/v0.2/ARQ_Supplement_v0.2.index.json",
+      "format": "json",
+      "role": "package_index",
+      "status": "unknown"
+    },
+    {
+      "id": "arq-system-models-and-assumptions-v0-2",
+      "title": "ARQ_System_Models_and_Assumptions_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_System_Models_and_Assumptions_v0.2.md",
+      "format": "markdown",
+      "role": "normative",
+      "status": "Draft / normative support document",
+      "sha256": "73f3ed2a98d691e053a6ee9b6ce05392418cd7dac00febb1e3c392e8ae34f4b6"
+    },
+    {
+      "id": "arq-test-audit-and-conformance-matrix-v0-2",
+      "title": "ARQ_Test_Audit_and_Conformance_Matrix_v0.2",
+      "path": "protocol/arq/v0.2/ARQ_Test_Audit_and_Conformance_Matrix_v0.2.md",
+      "format": "markdown",
+      "role": "audit_conformance",
+      "status": "Draft / normative support document",
+      "sha256": "5f12c7bee4576619ee489deca2eb2e9c337d82071d179761200502f8ff0ed8a6"
+    },
+    {
+      "id": "arq-v0-2-executive-summary",
+      "title": "ARQ v0.2 — Executive Summary",
+      "path": "protocol/arq/v0.2/ARQ_v0.2_Executive_Summary.md",
+      "format": "markdown",
+      "role": "release_metadata",
+      "status": "Draft / Executive release summary",
+      "sha256": "ca507122bada6807389d4704e8df3d3256fcdcffe04391365ac3513265f2d54c"
+    },
+    {
+      "id": "arq-v0-2-normative-core",
+      "title": "ARQ v0.2 — Normative Core",
+      "path": "protocol/arq/v0.2/ARQ_v0.2_Normative_Core.md",
+      "format": "markdown",
+      "role": "normative",
+      "status": "Draft / Core normative specification",
+      "sha256": "082bbe030d77580b394e789ebfbc8734faded0e904bdd7d0d52d4dbad0054015"
+    },
+    {
+      "id": "arq-v0-2-one-page-essence-en",
+      "title": "ARQ v0.2 — One-Page Essence",
+      "path": "protocol/arq/v0.2/ARQ_v0.2_One_Page_Essence_EN.md",
+      "format": "markdown",
+      "role": "release_metadata",
+      "status": "Working summary / repository-facing note",
+      "sha256": "41a11a496fcbe4e123378b90a6921f1cea563843a25f4a15a398f22338d62242"
+    },
+    {
+      "id": "changelog-arq-supplement-v0-2",
+      "title": "ARQ v0.2 Supplement — CHANGELOG",
+      "path": "protocol/arq/v0.2/CHANGELOG_ARQ_Supplement_v0.2.md",
+      "format": "markdown",
+      "role": "changelog",
+      "status": "Draft / release changelog",
+      "sha256": "ff4c3e1b8c263a3b7b32eb3b46ac35d64c00c17573a12601090f45018445d3a4"
+    },
+    {
+      "id": "citation-arq-cq-integration-addendum-v0-1",
+      "title": "ARQ c[q] Integration Addendum v0.1",
+      "path": "protocol/arq/v0.2/CITATION_ARQ_cq_Integration_Addendum_v0.1.cff",
+      "format": "cff",
+      "role": "citation",
+      "status": "unknown",
+      "sha256": "06b97fae264725d994a31ab3ce4722179f3c49ef1112409c4105b6cdc7aab9ac"
+    },
+    {
+      "id": "doc-map-arq-supplement-v0-2",
+      "title": "ARQ v0.2 Supplement — DOC MAP",
+      "path": "protocol/arq/v0.2/DOC_MAP_ARQ_Supplement_v0.2.md",
+      "format": "markdown",
+      "role": "doc_map",
+      "status": "Draft / document map",
+      "sha256": "f69d860f6c2736e1930cb36bbba324977d4fa61f227f2007582dd4330192c687"
+    },
+    {
+      "id": "readme-arq-supplement-v0-2",
+      "title": "ARQ v0.2 Supplement — README",
+      "path": "protocol/arq/v0.2/README_ARQ_Supplement_v0.2.md",
+      "format": "markdown",
+      "role": "package_readme",
+      "status": "Draft / repository entrypoint",
+      "sha256": "8c3f7b672c0a5ebfe9bafeb83538c1efc83e0523cf84e2121ab2a36e9c864bac"
+    },
+    {
+      "id": "zenodo-metadata-arq-supplement-v0-2",
+      "title": "ZENODO Metadata Template — ARQ v0.2 Supplement",
+      "path": "protocol/arq/v0.2/ZENODO_METADATA_ARQ_Supplement_v0.2.md",
+      "format": "markdown",
+      "role": "release_metadata",
+      "status": "Package-level deposit template / repository-facing metadata surface",
+      "sha256": "af74f671970e0ce353d309dc1a4b93d13c15238d04eb1b88fe85d85cec550f13"
+    }
+  ],
+  "integrity_note": "This index is hashed externally in hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt. The index does not embed its own SHA-256 hash to avoid recursive self-hashing."
+}

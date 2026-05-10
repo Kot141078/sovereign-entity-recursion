@@ -53,10 +53,11 @@ For readers who care about protocol structure and operational rules.
 1. `ARQ_v0.2_Normative_Core.md`
 2. `ARQ_System_Models_and_Assumptions_v0.2.md`
 3. `ARQ_Notation_and_Sign_Conventions_v0.2.md`
-4. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
-5. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
-6. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
-7. `ARQ_Test_Audit_and_Conformance_Matrix_v0.2.md`
+4. `ARQ_cq_Integration_Addendum_v0.1.md`
+5. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
+6. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
+7. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
+8. `ARQ_Test_Audit_and_Conformance_Matrix_v0.2.md`
 
 Use this track if you want the actual protocol logic.
 
@@ -99,8 +100,9 @@ For readers who need to know where ARQ belongs in the larger stack.
 
 1. `ARQ_v0.2_Normative_Core.md`
 2. `ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md`
-3. `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
-4. `CHANGELOG_ARQ_Supplement_v0.2.md`
+3. `ARQ_cq_Integration_Addendum_v0.1.md`
+4. `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
+5. `CHANGELOG_ARQ_Supplement_v0.2.md`
 
 Use this track if your question is not “how does ARQ work?” but “where does ARQ stop and where do other protocols begin?”
 
@@ -116,20 +118,30 @@ If the whole package is read linearly, the canonical order is:
 4. `ARQ_v0.2_Normative_Core.md`
 5. `ARQ_System_Models_and_Assumptions_v0.2.md`
 6. `ARQ_Notation_and_Sign_Conventions_v0.2.md`
-7. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
-8. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
-9. `ARQ_Classical_Boundedness_Theorem_v0.2.md`
-10. `ARQ_Classical_Boundedness_Theorem_prouve_v0.2.md`
-11. `ARQ_Quantum_Boundary_Theorem_v0.2.md`
-12. `ARQ_Quantum_Boundary_Theorem_prouve_v0.2.md`
-13. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
-14. `ARQ_Implementation_Profiles_Classical_v0.2.md`
-15. `ARQ_Failure_Modes_and_Safe_Degradation_v0.2.md`
-16. `ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md`
-17. `ARQ_Test_Audit_and_Conformance_Matrix_v0.2.md`
-18. `CHANGELOG_ARQ_Supplement_v0.2.md`
-19. `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
-20. `SHA256SUMS_ARQ_Supplement_v0.2.txt`
+7. `ARQ_cq_Integration_Addendum_v0.1.md`
+8. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
+9. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
+10. `ARQ_Classical_Boundedness_Theorem_v0.2.md`
+11. `ARQ_Classical_Boundedness_Theorem_prouve_v0.2.md`
+12. `ARQ_Quantum_Boundary_Theorem_v0.2.md`
+13. `ARQ_Quantum_Boundary_Theorem_prouve_v0.2.md`
+14. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
+15. `ARQ_Implementation_Profiles_Classical_v0.2.md`
+16. `ARQ_Failure_Modes_and_Safe_Degradation_v0.2.md`
+17. `ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md`
+18. `ARQ_Test_Audit_and_Conformance_Matrix_v0.2.md`
+19. `CHANGELOG_ARQ_Supplement_v0.2.md`
+20. `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
+21. `ARQ_Supplement_v0.2.index.json`
+22. `CITATION_ARQ_cq_Integration_Addendum_v0.1.cff`
+23. `SHA256SUMS_ARQ_Supplement_v0.2.txt`
+
+### c[q] / behavioral non-collapse addendum
+
+- `ARQ_cq_Integration_Addendum_v0.1.md`
+  Adds Qubit-State `c` (`c[q]`) as an ARQ v0.2 integration addendum. It should be read after the ARQ model and notation files and before lifecycle / witness-binding material.
+  It defines a behavioral non-collapse overlay for holding unresolved variants under uncertainty until a valid collapse condition exists.
+  This addendum is explicitly separate from the ARQ Quantum Boundary / M5 theorem material and does not claim physical quantum computation.
 
 ---
 
@@ -140,6 +152,7 @@ If the whole package is read linearly, the canonical order is:
 | `ARQ_v0.2_Normative_Core.md` | Everything except One-Page Essence / Executive / README | System models, valuation, lifecycle |
 | `ARQ_System_Models_and_Assumptions_v0.2.md` | Boundedness theorems, implementation arguments | Core |
 | `ARQ_Notation_and_Sign_Conventions_v0.2.md` | Valuation, theorem docs | System models |
+| `ARQ_cq_Integration_Addendum_v0.1.md` | Lifecycle, witness binding, integration readers | Models + notation; not M5 / not physical quantum computing |
 | `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md` | Lifecycle, some implementation choices | Notation |
 | `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md` | Schemas, promotion audit logic | Valuation |
 | `ARQ_Classical_Boundedness_Theorem_v0.2.md` | Proof companion | Models + notation |
@@ -177,6 +190,8 @@ If the whole package is read linearly, the canonical order is:
 - `CHANGELOG_ARQ_Supplement_v0.2.md`
 - `SHA256SUMS_ARQ_Supplement_v0.2.txt`
 - `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
+- `ARQ_Supplement_v0.2.index.json`
+- `CITATION_ARQ_cq_Integration_Addendum_v0.1.cff`
 
 ### Implementer minimum set
 - `ARQ_v0.2_Normative_Core.md`

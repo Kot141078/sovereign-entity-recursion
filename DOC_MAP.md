@@ -82,6 +82,7 @@ bounded payload, explicit uncertainty, witness events for auditability.
 - `docs/arq/ARQ_Comparison_with_Surface_Codes_and_Stabilizer_Correction_EN.md`
 - `docs/arq/examples/Code_Example_Computing_V_for_a_Classical_Entity_EN.md`
 - `docs/arq/translations/ru/Bounded_Entropy_Accumulation_in_ARQ_Entities_RU.md`
+- `protocol/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.md` — ARQ v0.2 additive integration addendum for Qubit-State `c` (`c[q]`); read after model/notation files and before lifecycle/witness-binding material.
 - `pdf/arq/README.md`
 
 **Responsibility:** bounded error valuation, trust-sensitive handling, witness-first accountability,

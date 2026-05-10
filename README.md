@@ -136,6 +136,9 @@ destructive deviations are suppressed, beneficial exploratory deviations may be 
 Canonical entry:
 `protocol/arq/README.md`
 
+- ARQ c[q] Integration Addendum v0.1: `protocol/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.md`
+  Additive ARQ v0.2 addendum for behavioral non-collapse under uncertainty; not physical quantum computing and not a replacement for the ARQ v0.2 normative core.
+
 ## EA-L4 / EATP (adjacent canonical package in AGI)
 
 EA-L4 / EATP is an adjacent training-provenance and consequence-preserving layer in the wider stack, but its canonical home is **not** this repository.

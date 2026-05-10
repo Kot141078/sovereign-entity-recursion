@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or reference this ARQ c[q] integration addendum, please cite it as follows."
+title: "ARQ c[q] Integration Addendum v0.1"
+authors:
+  - family-names: "Kotov"
+    given-names: "Ivan"
+    orcid: "https://orcid.org/0009-0009-6002-9845"
+version: "0.1-draft"
+date-released: "2026-05-10"
+repository-code: "https://github.com/Kot141078/sovereign-entity-recursion"
+url: "https://github.com/Kot141078/sovereign-entity-recursion/tree/main/protocol/arq/v0.2"
+keywords:
+  - "ARQ"
+  - "c[q]"
+  - "c=a+b"
+  - "Qubit-State c"
+  - "L4 Reality Boundary"
+  - "behavioral non-collapse"
+  - "uncertainty"
+  - "witness-bound collapse"
+abstract: >-
+  Additive integration addendum for ARQ v0.2. The document introduces Qubit-State c
+  (`c[q]`) as a behavioral non-collapse overlay under uncertainty, distinct from
+  physical quantum computing, quantum consciousness, and ARQ Model M5 quantum-boundary
+  material. It does not replace the ARQ v0.2 normative core.

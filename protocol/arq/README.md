@@ -30,6 +30,13 @@ Addendum hashes for the theorem companion are stored in `hashes/SHA256SUMS_arq_a
 - ARQ v0.2 package integrity manifest lives in `hashes/SHA256SUMS_ARQ_Supplement_v0.2.txt`.
 - ARQ v0.1 remains the earlier historical layer and is not overwritten by the v0.2 ingest.
 
+### ARQ c[q] integration addendum
+
+- `v0.2/ARQ_cq_Integration_Addendum_v0.1.md`
+- PDF: `../../pdf/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.pdf`
+
+This addendum integrates Qubit-State `c` (`c[q]`) into ARQ v0.2 as a behavioral non-collapse overlay under uncertainty. It is additive and does not modify the ARQ v0.2 normative core. It is separate from the ARQ Quantum Boundary / M5 theorem material and must not be read as a physical quantum-computing claim.
+
 This theorem companion is additive and does not replace `docs/arq/Bounded_Entropy_Accumulation_in_ARQ_Entities_EN.md`. It provides a more compact, publication-facing formal statement of the same boundedness claim under explicit L4 budgets.
 
 ---

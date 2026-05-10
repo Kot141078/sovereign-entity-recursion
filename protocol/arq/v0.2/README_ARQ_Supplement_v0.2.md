@@ -75,13 +75,22 @@ The substantive ARQ documents in this package are shipped in paired formats:
 ### 2.5 Integration branch
 - `ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.md` / `ARQ_Integration_Map_to_SER_L4_Witness_Beacon_VXCX_v0.2.pdf`
 
-### 2.6 Release-layer payload files
+### 2.6 Integration addenda
+- `ARQ_cq_Integration_Addendum_v0.1.md`
+  PDF: `../../../pdf/arq/v0.2/ARQ_cq_Integration_Addendum_v0.1.pdf`
+  Role: additive ARQ v0.2 integration addendum for Qubit-State `c` (`c[q]`).
+  Function: defines `c[q]` as a behavioral non-collapse overlay under uncertainty, with bounded q-state holding and witness-bound collapse before memory/action/EA promotion.
+  Boundary: this is not physical quantum computing, not quantum consciousness, not Model M5, and not a replacement for the ARQ v0.2 normative core.
+
+### 2.7 Release-layer payload files
 - `README_ARQ_Supplement_v0.2.md`
 - `DOC_MAP_ARQ_Supplement_v0.2.md`
 - `CHANGELOG_ARQ_Supplement_v0.2.md`
 - `ZENODO_METADATA_ARQ_Supplement_v0.2.md`
+- `ARQ_Supplement_v0.2.index.json` (machine-readable package index)
+- `CITATION_ARQ_cq_Integration_Addendum_v0.1.cff` (citation metadata for the c[q] addendum)
 
-### 2.7 Integrity file
+### 2.8 Integrity file
 - `SHA256SUMS_ARQ_Supplement_v0.2.txt` (self-excluded from the payload set it verifies)
 
 ---
@@ -100,9 +109,10 @@ The substantive ARQ documents in this package are shipped in paired formats:
 1. `ARQ_v0.2_Normative_Core.md`
 2. `ARQ_System_Models_and_Assumptions_v0.2.md`
 3. `ARQ_Notation_and_Sign_Conventions_v0.2.md`
-4. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
-5. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
-6. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
+4. `ARQ_cq_Integration_Addendum_v0.1.md`
+5. `ARQ_Error_Valuation_and_Anomaly_Scoring_v0.2.md`
+6. `ARQ_EA_Lifecycle_and_Witness_Binding_v0.2.md`
+7. `ARQ_Capsule_and_Witness_Record_Schemas_v0.2.md`
 
 ### Proof path
 1. `ARQ_System_Models_and_Assumptions_v0.2.md`
@@ -153,6 +163,7 @@ This release layer assumes a simple rule:
 Use:
 
 - `SHA256SUMS_ARQ_Supplement_v0.2.txt`
+- `ARQ_Supplement_v0.2.index.json`
 
 for release verification. The manifest validates the package payload set while remaining self-excluded from that set.
 

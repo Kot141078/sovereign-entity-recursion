@@ -84,8 +84,12 @@ The package includes:
 - classical implementation profiles;
 - failure modes and safe degradation;
 - integration map to SER / L4 Witness / Beacon / VXCX;
+- `ARQ_cq_Integration_Addendum_v0.1.md`;
+- `ARQ_cq_Integration_Addendum_v0.1.pdf`;
 - test, audit, and conformance matrix;
 - release-layer documents, including executive summary, doc map, changelog, and integrity manifest.
+
+The c[q] addendum is an additive integration addendum for ARQ v0.2. It introduces Qubit-State `c` (`c[q]`) as a behavioral non-collapse overlay under uncertainty. It does not replace the ARQ v0.2 normative core and does not assert physical quantum computation.
 
 The package is designed to make ARQ publishable, reviewable, auditable, and repository-stable without relying on oral explanation or implicit reconstruction of assumptions.
 
@@ -111,6 +115,8 @@ Recommended keyword set:
 - anomaly scoring
 - bounded entropy
 - quantum boundary
+- behavioral non-collapse
+- witness-bound collapse
 - protocol architecture
 - cybernetic stability
 
